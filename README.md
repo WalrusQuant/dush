@@ -18,7 +18,7 @@ Built in Rust with [`ratatui`](https://ratatui.rs).
 Requires a recent Rust toolchain (edition 2024).
 
 ```sh
-git clone <this repo>
+git clone https://github.com/WalrusQuant/dush.git
 cd dush
 cargo build --release
 ```
@@ -59,4 +59,4 @@ While a scan is running, the title bar shows progress (`scanning N/M`) and the s
 
 ## License
 
-TBD.
+[MIT](LICENSE)
